@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0c788548cc545d2fb3ea",
+    "revision": "d27f1d3039b57f8cdea3",
     "url": "/static/css/main.24159eab.chunk.css"
   },
   {
-    "revision": "0c788548cc545d2fb3ea",
-    "url": "/static/js/main.0c788548.chunk.js"
+    "revision": "d27f1d3039b57f8cdea3",
+    "url": "/static/js/main.d27f1d30.chunk.js"
   },
   {
     "revision": "01b7494bcfb87754bccf",
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/static/media/fa-solid-900.61969d43.woff"
   },
   {
-    "revision": "c39278f7abfc798a241551194f55e29f",
-    "url": "/static/media/fa-brands-400.c39278f7.ttf"
-  },
-  {
     "revision": "d9d17590c975aad1be0ddab673f9c769",
     "url": "/static/media/fa-brands-400.d9d17590.eot"
+  },
+  {
+    "revision": "c39278f7abfc798a241551194f55e29f",
+    "url": "/static/media/fa-brands-400.c39278f7.ttf"
   },
   {
     "revision": "e7e957c87c454bccaa3bf9fdaa6874f8",
@@ -188,7 +188,7 @@ self.__precacheManifest = [
     "url": "/static/media/dear-ruggles-teaser.38ca1d04.png"
   },
   {
-    "revision": "777bb71f0c71a200f593171140c67ead",
+    "revision": "3fb4974e32550c7c6e2b6571d560ba38",
     "url": "/index.html"
   }
 ];
